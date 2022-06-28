@@ -5,7 +5,7 @@ Sensor driver for LSM9DS1 sensor written in C programming language. This reposit
 In order to `clone` the complete content of the repository folder, use the command:
 
 ```
-git clone https://github.com/STMicroelectronics/LSM9DS1/
+git clone https://github.com/STMicroelectronics/LSM9DS1-PID/
 ```
 
 Some examples of driver usage can be found [here](https://github.com/STMicroelectronics/STMems_Standard_C_drivers).
